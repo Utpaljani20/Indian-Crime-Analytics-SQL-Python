@@ -404,14 +404,14 @@ Planned improvements for this project could include:
 
 ## 👨‍💻 Author
 
-**Satyam Singh**
+**Utpal Jani**
 
 Aspiring **Data Analyst** focused on:
 
 `SQL` • `Python` • `Power BI` • `Excel` • `Data Analysis`
 
 GitHub:
-https://github.com/satyamsatyam1215-cmd
+https://github.com/Utpaljani20
 
 ---
 
