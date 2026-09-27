@@ -420,5 +420,3 @@ https://github.com/satyamsatyam1215-cmd
 If you found this project useful or interesting, consider giving the repository a **⭐ star**.
 
 ---
-
-### 📌 Portfolio Note
